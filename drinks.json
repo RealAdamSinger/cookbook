@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Water",
+        "tagline": "Seriously. It's Your Friend. Get Used to it.",
+        "ingredients": [
+            {
+                "ingredient": "Water",
+                "amount": "8"                
+            }
+        ],
+        "directions": ["Just start drinking this always. Great substitute for any drink. Avoid distilled water if possible as distilation causes demineralization."]
+    },
+    {
+        "name": "The Healer",
+        "tagline": "For When You're Feeling the Burn",
+        "ingredients": [
+            {
+                "ingredient": "Vodka",
+                "amount": "1"                
+            },
+            {
+                "ingredient": "Aloe Vera Water",
+                "amount": "3"                
+            },            
+            {
+                "ingredient": "Soda Water",
+                "amount": "2"
+            }
+        ],
+        "directions": ["Mix", "Enjoy"]
+    },
+    {
+        "name": "Vodka Soda",
+        "tagline": "Plain and Simple",
+        "ingredients": [
+            {
+                "ingredient": "Vodka",
+                "amount": "1.5"                
+            },                        
+            {
+                "ingredient": "Soda Water",
+                "amount": "6"
+            },
+            {
+                "ingredient": "ice"
+            },
+            [
+                {
+                    "ingredient": "Lemon Slice"
+                },
+                {
+                    "ingredient": "Lime Slice"
+                }
+            ]
+        ],
+        "directions": ["If you put the lemon slice im before the ice it will remain satisfyingly submerged."]
+    },
+    {
+        "name": "Pickle Juice and Shots",
+        "tagline": "Just Try It Already. It's Better than it Sounds.",
+        "ingredients": [
+            {
+                "ingredient": "Vodka",
+                "amount": "1"                
+            },                        
+            {
+                "ingredient": "Pickle Juice",
+                "amount": "1"
+            }
+        ],
+        "directions": [
+            "Place the vodka and pickle juice in seperate shot glasses.",
+            "Accept your fate",
+            "Drink the vodka.",
+            "Take a few second to enjoy the burn.",
+            "Drink the pickle juice.",
+            "Feel Satisfied"
+         ]
+    },
+    {
+      "name": "Red Wine",
+        "tagline": "Something Enjoyed for Over 8000 Years has got to be Worth the Calories",
+        "ingredients": [
+            {
+                "ingredient": "Red Wine",
+                "amount": "4"                
+            }
+        ],
+        "directions": ["I think you can figure this one out on your own."]
+    },
+    {
+      "name": "White Wine",
+        "tagline": "For When You're Hanging Out with Dionysus",
+        "ingredients": [
+            {
+                "ingredient": "Red Wine",
+                "amount": "4"                
+            }
+        ],
+        "directions": ["Feel Classy"]
+    }
+]

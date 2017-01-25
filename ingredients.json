@@ -1,0 +1,69 @@
+[
+    {
+        "ingredient": "Water", 
+        "unit": "oz",
+        "calories": 0
+    },
+    {
+        "ingredient": "Vodka", 
+        "unit": "oz",
+        "calories": 64
+    },
+    {
+        "ingredient": "Gin", 
+        "unit": "oz",
+        "calories": 64
+    },
+    {
+        "ingredient": "Whiskey", 
+        "unit": "oz",
+        "calories": 64
+    },
+    {
+        "ingredient": "Tequila", 
+        "unit": "oz",
+        "calories": 64
+    },
+    {
+        "ingredient": "Rum", 
+        "unit": "oz",
+        "calories": 64
+    },
+    {
+        "ingredient": "Aloe Vera Water",
+        "unit": "oz",
+        "calories": 12.5
+    },    
+    {
+        "ingredient": "Red Wine",
+        "unit": "oz",
+        "calories": 24
+    },
+    {
+        "ingredient": "White Wine",
+        "unit": "oz",
+        "calories": 23
+    },
+    {
+        "ingredient": "Champagne",
+        "unit": "oz",
+        "calories": 23
+    },
+    {
+        "ingredient": "Soda Water",
+        "unit": "oz",
+        "calories": 0
+    },
+    {
+        "ingredient": "Ice",
+        "calories": 0
+    },
+    {
+        "ingredient": "Lemon Slice",
+        "calories": 2
+    },
+    {
+        "ingredient": "Lime Slice",
+        "calories": 2
+    }
+]
