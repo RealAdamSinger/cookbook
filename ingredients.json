@@ -65,5 +65,29 @@
     {
         "ingredient": "Lime Slice",
         "calories": 2
-    }
+    },
+    {
+        "ingredient": "Pickle Juice",
+        "unit": "oz",
+        "calories": 6.25
+   },
+   {
+        "ingredient": "Frozen Strawberries",
+        "calories": 4
+   },
+   {
+       "ingredient": "Beer",
+       "unit": "Cup",
+       "calories": 104
+   },
+   {
+       "ingredient": "Lemonade",
+       "unit": "Cup",
+       "calories": 99
+   },
+   {
+       "ingredient": "Grapefruit Juice",
+       "unit": "Cup",
+       "calories": 96
+   }
 ]
