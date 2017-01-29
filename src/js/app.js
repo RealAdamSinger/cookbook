@@ -1,5 +1,3 @@
-babe=require ("babelify/polyfill");
-
 React = require('react');
 ReactDOM = require('react-dom');
 Radium = require('radium');
@@ -12,7 +10,7 @@ var App = React.createClass({
       </div>
     )
   }
-}
+});
 
 ReactDOM.render(
   <App />,

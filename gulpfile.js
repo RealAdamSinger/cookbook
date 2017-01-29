@@ -20,12 +20,12 @@ var gulp = require('gulp'),
 // add custom browserify options here
 var customOpts = {
   entries: ['./src/js/app.js'],
-  debug: true
+  debug: true,
+  transform: [["reactify", {"es6": true}]]
 };
 var opts = assign({}, watchify.args, customOpts);
 var b = watchify(browserify(opts)); 
     b.transform(babelify.configure({
-      optional: ['es7.decorators'] // Decorator support for Radium
     }));
 
 gulp.task('js', bundle); // so you can run `gulp js` to build the file
